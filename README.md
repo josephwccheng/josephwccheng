@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephwccheng
 - 👀 I’m interested in Machine Learning and Software Engineering
 - 🌱 I’m currently learning Web Application using Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning related projects
 - 📫 How to reach me: Email - joseph.wc.cheng@gmail.com
 
 <!---
