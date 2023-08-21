@@ -10,7 +10,7 @@ List of Repositories
 - **pytorch_neural_network**: Image classification model of Cats and Dogs using Pytorch (with / without GPU)
 - **coursera_machine_learning**: Solutions for the Programming Exercises which includes fundamental of Machine learning
 - **invisible_cloak_OpenCV**: Exploring image processing techniques with openCV
-- **basic_software_engineering**: Basic Software Engineering Concepts in Pyhton - Data Structures / Algorithms, Object Oriented Programming ...
+- **basic_software_engineering**: Basic Software Engineering Concepts in Python - Data Structures / Algorithms, Object Oriented Programming ...
 <!---
 josephwccheng/josephwccheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
